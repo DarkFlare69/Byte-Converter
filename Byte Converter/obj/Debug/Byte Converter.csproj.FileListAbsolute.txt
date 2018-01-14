@@ -1,0 +1,10 @@
+D:\VS\Byte Converter\Byte Converter\bin\Debug\Byte Converter.exe.config
+D:\VS\Byte Converter\Byte Converter\bin\Debug\Byte Converter.exe
+D:\VS\Byte Converter\Byte Converter\bin\Debug\Byte Converter.pdb
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte_Converter.Form1.resources
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte_Converter.Properties.Resources.resources
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte Converter.csproj.GenerateResource.Cache
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte Converter.csproj.CoreCompileInputs.cache
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte Converter.exe
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte Converter.pdb
+D:\VS\Byte Converter\Byte Converter\obj\Debug\Byte Converter.csprojResolveAssemblyReference.cache
