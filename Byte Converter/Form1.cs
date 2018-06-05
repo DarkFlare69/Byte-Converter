@@ -22,7 +22,7 @@ namespace Byte_Converter
                 String start = reversedBytes.ToString("X").PadLeft(4, '0');
                 output += start;
             }
-            return (output);
+            return output;
         }
 
         public String ChangeBytes32(String input)
@@ -36,7 +36,7 @@ namespace Byte_Converter
                 String start = reversedBytes.ToString("X").PadLeft(8, '0');
                 output += start;
             }
-            return (output);
+            return output;
         }
 
         public String ChangeBytes64(String input)
@@ -50,7 +50,7 @@ namespace Byte_Converter
                 String start = reversedBytes.ToString("X").PadLeft(16, '0');
                 output += start;
             }
-            return (output);
+            return output;
         }
 
         private void button1_Click(object sender, EventArgs e)
